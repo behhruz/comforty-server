@@ -1,0 +1,158 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Library Stool Chair",
+            "price": 20,
+            "oldPrice": null,
+            "image": "rasm1",
+            "isNew": true,
+            "isOnSale": false
+        },
+        {
+            "id": 2,
+            "name": "Library Stool Chair",
+            "price": 40,
+            "oldPrice": 30,
+            "image": "Image2",
+            "isNew": false,
+            "isOnSale": true
+        },
+        {
+            "id": 3,
+            "name": "Library Stool Chair",
+            "price": 70,
+            "oldPrice": null,
+            "image": "rasm3",
+            "isNew": false,
+            "isOnSale": false
+        },
+        {
+            "id": 4,
+            "name": "Library Stool Chair",
+            "price": 77,
+            "oldPrice": null,
+            "image": "rasm4",
+            "isNew": false,
+            "isOnSale": false
+        },
+        {
+            "id": 5,
+            "name": "Library Stool Chair",
+            "price": 66,
+            "oldPrice": null,
+            "image": "rasm5",
+            "isNew": true,
+            "isOnSale": false
+        },
+        {
+            "id": 6,
+            "name": "Library Stool Chair",
+            "price": 1.999,
+            "oldPrice": 30,
+            "image": "rasm6",
+            "isNew": false,
+            "isOnSale": true
+        },
+        {
+            "id": 7,
+            "name": "Library Stool Chair",
+            "price": 35,
+            "oldPrice": null,
+            "image": "rasm7",
+            "isNew": false,
+            "isOnSale": false
+        },
+        {
+            "id": 8,
+            "name": "Library Stool Chair",
+            "price": 34,
+            "oldPrice": null,
+            "image": "rasm1",
+            "isNew": false,
+            "isOnSale": false
+        }
+    ],
+    "users": [
+        {
+            "id": "1",
+            "title": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa tincidunt blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices dui at ipsum sagittis, pharetra lacinia dui faucibus. In ac bibendum ex. Aenean dolor massa, euismod sit amet suscipit et“",
+            "Name": "Kristin Watson",
+            "nick": "Fashion Designer",
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/ed1c/c80b/6c95f55d53f843caf4439599d3582836?Expires=1734307200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=DYMqeQeAqWxf8eKJ9OGsB~AZmgnzI3pZKODduDAL1BCWnWKZe08-vnRb0aoUEekvO6tYMRCwvJqHGoDU9D~oLwLe~bgrIyFrbTburpfLh0Cn037VXiO~hfE7HLFbh7A926NUh04WW6rceO29-sNa5vOaZ93CWGnoWPFowiZXVBpvsDm1ioJ9BJe6DqCQgTMtSU5PKCEd8HKHxt4A3ZRBT9MbCVmqvbEfYHq9EbctapN3tHJMMjQTeAwBcrLyKZn2g1Xg3r-~-wTQU66jWQrI0yOzQmCYb6u2V~~TFPBMBCTTDmZ4Xamf2TZ4bNl6jA0JGIDpGHWDyAh8aMkBnA8rtg__"
+        },
+        {
+            "id": "2",
+            "title": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sit amet mi nec massa tincidunt blandit et eu sem. Maecenas laoreet ultrices diam dignissim posuere. Aenean ultrices dui at ipsum sagittis, pharetra lacinia dui faucibus. In ac bibendum ex. Aenean dolor massa, euismod sit amet suscipit et“",
+            "Name": "Esther Howard",
+            "nick": "Fashion Designer",
+            "imgUrl": "https://s3-alpha-sig.figma.com/img/ed85/c1bf/c92ef925a398d16787cdb6fe029f0218?Expires=1734307200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gGSSTbhw2wNE4Mh0xMpWOtIveNd0bGd53ecX6bnXgStJBnLq4pUq0y1vaP9GIGQ4COzfafb4ek9mk16iINaWFBZhHyDufFSlgdhyf4MIYnW5Edx1tnjZTeiO8fnFVbuVi1qEqb566sOzztLZ2pw7Tgat9CFw2b~7AWNtNlL0RnALmckoDMh3-BW8lv-9aw4tsXrO06pv1WeKcp8SmK2xmbXAmoeiSuJCOs-DmxCj9NIbwljD7ag7-DPTc-MjLMCE9AFbWQfdtomlyHRPcUSf64pCfXzokusq~EipVVBRDWS4oBugTzBXXT0vU4Fn6fiVOSuTN6b7OB9h5wS6EQPB5w__"
+        },
+        {
+            "id": "c69e",
+            "title": "dknfd",
+            "Name": "dkfnk",
+            "nick": "dkfkdnf",
+            "imgUrl": "df kn"
+        },
+        {
+            "id": "e33b",
+            "title": "спасибо было все класно",
+            "Name": "салохиддин",
+            "nick": "",
+            "imgUrl": "https://static.wikia.nocookie.net/joke-battles/images/d/df/Gigachad.png/revision/latest/scale-to-width-down/340?cb=20230812064835"
+        },
+        {
+            "id": "9e90",
+            "title": "лвталвоа",
+            "Name": "вьа ",
+            "nick": "лва",
+            "imgUrl": "вта"
+        },
+        {
+            "id": "c473",
+            "title": "helloin",
+            "Name": "Behruz",
+            "nick": "behruz",
+            "imgUrl": "..."
+        }
+    ],
+    "cattegories": [
+        {
+            "id": 1,
+            "imgURL": "https://m.media-amazon.com/images/I/81lR-d+iPJL.jpg",
+            "title": "Wing Chair",
+            "products": []
+        },
+        {
+            "id": 2,
+            "imgURL": "https://woodentwist.com/cdn/shop/products/91pjix_sL5L._SL1500.jpg?v=1656933461",
+            "title": "Wooden Chair",
+            "products": []
+        },
+        {
+            "id": 3,
+            "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDkdq07d_XYasYFeba8v_tDCdFiv2hg5l4EA&s",
+            "title": "Desk Chair",
+            "products": []
+        },
+        {
+            "id": 4,
+            "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuNEq1LmNtKIDs89S3EplFtSxChZe9WT_AKWWYG3a6AeYqYp-sCpWdh2XDJiNNGZhQZe8&usqp=CAU",
+            "title": "Park Chair",
+            "products": []
+        },
+        {
+            "id": 5,
+            "imgURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpRBT5awVCghwnV7ZO-G51T3V0trQeunENbLb8wXaUdHdP8ognQa4cn5HTV-zYXjJhkyE&usqp=CAU",
+            "title": "Devan Chair",
+            "products": []
+        },
+        {
+            "id": 6,
+            "imgURL": "https://mebel-moskva.ru/upload/resize_cache/iblock/d19/1200_1200_193086f7b4eed00ecd4c4e34de7be5627/yvd8qfmhiow6dcfimiazfcxwf9c232n9.jpg",
+            "title": "Bed",
+            "products": []
+        }
+    ]
+}
