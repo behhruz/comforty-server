@@ -154,5 +154,25 @@
             "title": "Bed",
             "products": []
         }
+    ],
+    "carusel": [
+        {
+            "id":7,
+            "title":"Best Furniture Collection for your interior",
+            "imgUrl":"https://annihaus.ru/upload/iblock/087/0877447b7ddb31f595ccbaaca9b0d584.jpg"
+
+        },
+        {
+            "id":8,
+            "title":"Best stul ",
+            "imgUrl":"https://baucenter.ru/preview/r/612x612/c/612x612/q/95/upload/pictures/62/625004173-0@2x.jpg?1680516330"
+            
+        },
+        {
+            "id":9,
+            "title":"Best Furniture ",
+            "imgUrl":"https://romatti.uz/upload/iblock/305/rjq4gj16527jpmv811r7n5ikj50t612a.jpg"
+            
+        }
     ]
 }
